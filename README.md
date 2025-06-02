@@ -30,6 +30,22 @@ This document defines a **decentralized web hosting framework** leveraging **.so
       Submit issues or pull requests to improve the document.
 
       Discuss enhancements in the repository's issues tab.
+   
+## 🤝 Contributing
+We welcome contributions to improve the Solana Web Standard Whitepaper!
+Here’s how you can help:
+
+Fork this repository and create your own branch.
+
+Make your improvements (whitepaper content, diagrams, or specs).
+
+Commit and push your changes.
+
+Open a Pull Request (PR) against the main branch of this repository.
+
+All contributions are covered under the AGPL-3.0 license, ensuring that improvements are shared openly with the community. For more details, see the [CONTRIBUTING](./CONTRIBUTING.md) file.
+
+
 
 ## 📜 License
 This whitepaper and the Solana Web Standard framework are licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
