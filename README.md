@@ -6,7 +6,7 @@ This document defines a **decentralized web hosting framework** leveraging **.so
 
 ## 📚 Contents
 
-📖 `Solana_Web_Standard_Whitepaper.pdf`: The complete whitepaper.
+📖 `Solana Web Standard - Whitepaper.pdf`: The complete whitepaper.
 
 
 
