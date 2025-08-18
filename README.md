@@ -2,7 +2,7 @@
 ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
 
 Welcome to the official **Solana Web Standard (SWS)** whitepaper repository.
-This document defines a **decentralized web hosting framework** leveraging **.sol domains**, **decentralized storage (Arweave/IPFS)**, and **Web3 protocols** to create a censorship-resistant, user-owned web ecosystem.
+This document defines a **decentralized web hosting framework** leveraging **.sol domains**, **decentralized storage (Arweave/IPFS)** and **Web3 protocols** to create a censorship-resistant, user-owned web ecosystem.
 
 ## 📚 Contents
 
