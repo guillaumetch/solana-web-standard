@@ -17,10 +17,10 @@ This project is licensed under the **AGPL-3.0**, which ensures that any improvem
     ```
 3. Make your improvements (whitepaper content, diagrams, technical specs, etc).
 
-&#x20;4\.   Commit your changes with clear messages.
+&#x20;4\. Commit your changes with clear messages.
 
 5. Push your branch to your forked repository.
-6. Open a Pull Request (PR) against this repository's main branch.
+6. Open a Pull Request (PR) against this repository's main branch
 
 
 
